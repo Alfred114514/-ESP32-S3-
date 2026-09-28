@@ -1,0 +1,7 @@
+# Name,   Type, SubType, Offset,   Size, Flags
+# 自定义分区表：N16R8（16MB flash）。factory 放大到 6MB，容纳 MQTT 等组件 + ESP-DL 人脸模型
+# （检测 MSR/MNP + 特征 MFN 共约 1.5MB 嵌入固件）后的固件（当前约 4.6MB）。
+nvs,      data, nvs,     0x9000,   0x6000,
+phy_init, data, phy,     0xf000,   0x1000,
+factory,  app,  factory, 0x10000,  6M,
+featdb,   data, nvs,     0x610000, 0x10000,

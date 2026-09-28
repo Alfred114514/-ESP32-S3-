@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd //c \"D:\\\\\\\\cubemx\\\\\\\\esp32-s3\\\\\\\\esp32_video\\\\\\\\esp32_cam_video\\\\\\\\_build_tmp.bat\")",
+      "Bash(echo \"EXIT=$?\")",
+      "Read(//tmp/**)",
+      "Bash(cmd //c \"build\\\\\\\\_build_now.bat\")"
+    ]
+  }
+}

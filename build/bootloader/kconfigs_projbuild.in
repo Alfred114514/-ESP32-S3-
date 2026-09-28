@@ -1,0 +1,5 @@
+source "E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/bootloader/Kconfig.projbuild"
+source "E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/esp_app_format/Kconfig.projbuild"
+source "E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/esp_rom/Kconfig.projbuild"
+source "E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/esptool_py/Kconfig.projbuild"
+source "E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/partition_table/Kconfig.projbuild"

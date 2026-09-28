@@ -1,0 +1,10 @@
+dependencies:
+  cmake_utilities: 0.*
+  idf: '>=5.2'
+description: ESP LCD ILI9341
+repository: git://github.com/espressif/esp-bsp.git
+repository_info:
+  commit_sha: 93460b932beba7022a8a4ec4186e0d6b7533d05f
+  path: components/lcd/esp_lcd_ili9341
+url: https://github.com/espressif/esp-bsp/tree/master/components/lcd/esp_lcd_ili9341
+version: 2.1.0

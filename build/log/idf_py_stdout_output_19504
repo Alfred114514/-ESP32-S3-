@@ -1,0 +1,18 @@
+Command: ninja all
+[1/9] Performing build step for 'bootloader'
+[1/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\cubemx\esp32-s3\esp32_video\esp32_cam_video\build\bootloader\esp-idf\esptool_py && E:\esp32ssif\new\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 D:/cubemx/esp32-s3/esp32_video/esp32_cam_video/build/bootloader/bootloader.bin"
+Bootloader binary size 0x5160 bytes. 0x2ea0 bytes (36%) free.
+[2/9] No install step for 'bootloader'
+[3/9] Completed 'bootloader'
+[4/9] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/local_face_recog.cpp.obj
+[5/9] Linking C static library esp-idf\main\libmain.a
+[6/9] Generating esp-idf/esp_system/ld/sections.ld
+[7/9] Linking CXX executable esp32_cam_video.elf
+[8/9] Generating binary image from built executable
+esptool.py v4.12.0
+Creating esp32s3 image...
+Merged 3 ELF sections
+Successfully created esp32s3 image.
+Generated D:/cubemx/esp32-s3/esp32_video/esp32_cam_video/build/esp32_cam_video.bin
+[9/9] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\cubemx\esp32-s3\esp32_video\esp32_cam_video\build\esp-idf\esptool_py && E:\esp32ssif\new\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe E:/esp32ssif/new/Espressif/frameworks/esp-idf-v5.5.5/components/partition_table/check_sizes.py --offset 0x8000 partition --type app D:/cubemx/esp32-s3/esp32_video/esp32_cam_video/build/partition_table/partition-table.bin D:/cubemx/esp32-s3/esp32_video/esp32_cam_video/build/esp32_cam_video.bin"
+esp32_cam_video.bin binary size 0x492c50 bytes. Smallest app partition is 0x600000 bytes. 0x16d3b0 bytes (24%) free.

@@ -1,0 +1,2 @@
+source D:/cubemx/esp32-s3/esp32_video/esp32_cam_video/build/gdbinit/symbols
+source D:/cubemx/esp32-s3/esp32_video/esp32_cam_video/build/gdbinit/connect

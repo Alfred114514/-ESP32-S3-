@@ -1,0 +1,47 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "e:\\esp32ssif\\new\\Espressif\\frameworks\\esp-idf-v5.5.5",
+  "idf.pythonInstallPath": "d:\\Espressif\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM7",
+  "idf.toolsPathWin": "e:\\esp32ssif\\new\\Espressif",
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "e:\\esp32ssif\\new\\Espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20260424/openocd-esp32/share/openocd/scripts",
+    "IDF_CCACHE_ENABLE": "1",
+    "ESP_ROM_ELF_DIR": "e:\\esp32ssif\\new\\Espressif\\tools\\esp-rom-elfs\\20241011/",
+    "IDF_TARGET": "esp32s3"
+  },
+  "files.associations": {
+    "freertos.h": "c",
+    "esp_psram.h": "c",
+    "unistd.h": "c",
+    "camera.h": "c",
+    "queue.h": "c",
+    "esp_camera.h": "c",
+    "led.h": "c",
+    "esp_lcd_panel_io.h": "c",
+    "esp_timer.h": "c",
+    "array": "c",
+    "bitset": "c",
+    "string_view": "c",
+    "format": "c",
+    "initializer_list": "c",
+    "span": "c",
+    "regex": "c",
+    "esp_log.h": "c"
+  },
+  "idf.adapterTargetName": "esp32s3",
+  "idf.flashType": "UART",
+  "idf.pythonBinPathWin": "e:\\esp32ssif\\new\\Espressif\\python_env\\idf5.5_py3.11_env\\Scripts\\python.exe",
+  "idf.customExtraPaths": "e:\\esp32ssif\\new\\Espressif\\tools\\xtensa-esp-elf-gdb\\17.1_20260402\\xtensa-esp-elf-gdb\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\riscv32-esp-elf-gdb\\17.1_20260402\\riscv32-esp-elf-gdb\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20260121\\xtensa-esp-elf\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\riscv32-esp-elf\\esp-14.2.0_20260121\\riscv32-esp-elf\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\esp32ulp-elf\\2.38_20240113\\esp32ulp-elf\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\cmake\\3.30.2\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20260424\\openocd-esp32\\bin;e:\\esp32ssif\\new\\Espressif\\tools\\ninja\\1.12.1;e:\\esp32ssif\\new\\Espressif\\tools\\idf-exe\\1.0.3;e:\\esp32ssif\\new\\Espressif\\tools\\ccache\\4.12.1\\ccache-4.12.1-windows-x86_64;e:\\esp32ssif\\new\\Espressif\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;e:\\esp32ssif\\new\\Espressif\\tools\\esp-rom-elfs\\20241011",
+  "idf.gitPathWin": "e:\\esp32ssif\\new\\Espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
+  "idf.currentSetup": "e:\\esp32ssif\\new\\Espressif\\frameworks\\esp-idf-v5.5.5",
+  "clangd.path": "E:\\esp32ssif\\new\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=d:\\cubemx\\esp32-s3\\esp32_video\\esp32_cam_video\\build"
+  ]
+}

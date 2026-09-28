@@ -1,0 +1,4405 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:body>
+    <w:p w14:paraId="616553AD" w14:textId="0D3A7070" w:rsidR="00FF3EC6" w:rsidRPr="00723C54" w:rsidRDefault="00952D07" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:widowControl/>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="4040"/>
+        </w:tabs>
+        <w:spacing w:after="40" w:line="300" w:lineRule="exact"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="1C3A5E"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="48"/>
+          <w:szCs w:val="48"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+          <w:b/>
+          <w:noProof/>
+          <w:color w:val="1C3A5E"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="48"/>
+          <w:szCs w:val="48"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251671040" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="74F52705" wp14:editId="644F8EF0">
+            <wp:simplePos x="0" y="0"/>
+            <wp:positionH relativeFrom="margin">
+              <wp:align>right</wp:align>
+            </wp:positionH>
+            <wp:positionV relativeFrom="paragraph">
+              <wp:posOffset>-247650</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="1041400" cy="1340764"/>
+            <wp:effectExtent l="0" t="0" r="6350" b="0"/>
+            <wp:wrapNone/>
+            <wp:docPr id="862579678" name="图片 7"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="862579678" name="图片 862579678"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId8"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="1041400" cy="1340764"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+            <wp14:sizeRelH relativeFrom="margin">
+              <wp14:pctWidth>0</wp14:pctWidth>
+            </wp14:sizeRelH>
+            <wp14:sizeRelV relativeFrom="margin">
+              <wp14:pctHeight>0</wp14:pctHeight>
+            </wp14:sizeRelV>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="1C3A5E"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="48"/>
+          <w:szCs w:val="48"/>
+        </w:rPr>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D449029" w14:textId="6DE66F51" w:rsidR="00DC586D" w:rsidRPr="000D6CAB" w:rsidRDefault="00AD08F0" w:rsidP="00331A62">
+      <w:pPr>
+        <w:spacing w:after="40"/>
+        <w:rPr>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="OLE_LINK4"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="1C3A5E"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="48"/>
+          <w:szCs w:val="48"/>
+        </w:rPr>
+        <w:t>李博宇</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="598F1CB1" w14:textId="536BD8A3" w:rsidR="008B26AC" w:rsidRPr="000D6CAB" w:rsidRDefault="00AD08F0" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:spacing w:after="40" w:line="300" w:lineRule="exact"/>
+        <w:rPr>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>电话：17383592670  |  邮箱：1473457309@</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Times New Roman"/>
+          <w:color w:val="505050"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>qq</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Times New Roman"/>
+          <w:color w:val="505050"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>com</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="a3"/>
+        <w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="text" w:horzAnchor="margin" w:tblpY="407"/>
+        <w:tblOverlap w:val="never"/>
+        <w:tblW w:w="10772" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="10772"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00AE1BDB" w14:paraId="26FAEF32" w14:textId="77777777" w:rsidTr="00AE1BDB">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10772" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="D9D9D9" w:themeFill="background1" w:themeFillShade="D9"/>
+          </w:tcPr>
+          <w:p w14:paraId="3C410F76" w14:textId="77777777" w:rsidR="00AE1BDB" w:rsidRPr="00E06751" w:rsidRDefault="00AE1BDB" w:rsidP="00130CA6">
+            <w:pPr>
+              <w:adjustRightInd w:val="0"/>
+              <w:snapToGrid w:val="0"/>
+              <w:spacing w:line="300" w:lineRule="exact"/>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>专业技能</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="011FBC81" w14:textId="6068C8BA" w:rsidR="005C1F9C" w:rsidRPr="00DC586D" w:rsidRDefault="00AD08F0" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:spacing w:after="40" w:line="300" w:lineRule="exact"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t xml:space="preserve">22岁  | </w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="505050"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CET</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>-6 (具备英文文档阅读能力)</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="505050"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> | 共青团员 </w:t>
+      </w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="23873545" w14:textId="2ED4DAA4" w:rsidR="00A20F07" w:rsidRPr="00A20F07" w:rsidRDefault="00A20F07" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="13"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="5233"/>
+        </w:tabs>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:b/>
+          <w:w w:val="90"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="1" w:name="OLE_LINK14"/>
+      <w:bookmarkStart w:id="2" w:name="OLE_LINK17"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>编程语言</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：熟练掌握</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>语言</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>，代码规范</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>良好，熟悉</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PID</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>等常用控制算法</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>及其工程化应用（积分分离、输出限幅、前馈解耦）</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28E31DD5" w14:textId="42400AE7" w:rsidR="00FF2A26" w:rsidRDefault="00623DE6" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="13"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="720"/>
+          <w:tab w:val="center" w:pos="5233"/>
+        </w:tabs>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="3" w:name="OLE_LINK15"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MCU</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 与 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>RTOS</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="1"/>
+      <w:bookmarkEnd w:id="3"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">熟练掌握 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>STM32</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>/</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>TI MSPM0</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 裸机开发及外设配置；熟悉 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>FreeRTOS</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>多任务开发，了解任务创建、任务优先级、队列、信号量、互斥量等机制；有基于</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP32-S3</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">和 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>FreeRTOS</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 进行多任务划分与资源协调的项目经验。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5356C35A" w14:textId="7A78A8B3" w:rsidR="00FF2A26" w:rsidRDefault="00FF2A26" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="13"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="720"/>
+          <w:tab w:val="center" w:pos="5233"/>
+        </w:tabs>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP32</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 与端侧应用</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：了解</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> ESP-IDF</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 开发流程，了解 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP32-S3</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 双核架构、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PSRAM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 扩展内存、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Flash</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 分区配置；能够完成摄像头图像采集、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>LVGL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 界面显示、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Wi-Fi</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 连接及 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>HTTP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 接口通信等功能开发。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4CCE47BD" w14:textId="4A77F445" w:rsidR="002C5048" w:rsidRDefault="00A159DB" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="13"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="720"/>
+          <w:tab w:val="center" w:pos="5233"/>
+        </w:tabs>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>通信</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>协议</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：熟练</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="4" w:name="OLE_LINK16"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>掌握</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="4"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>UART</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="5" w:name="OLE_LINK5"/>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>(</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>DMA</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>+</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IDLE</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>空闲中断)</w:t>
+      </w:r>
+      
+      <w:bookmarkEnd w:id="5"/>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IIC</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>协议</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>，了解</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>SPI,CAN</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>协议,有</w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Wi-Fi</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>HTTP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 等网络通信调试经验。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="78284D47" w14:textId="382B47AD" w:rsidR="002C5048" w:rsidRPr="002C5048" w:rsidRDefault="002C5048" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="13"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="num" w:pos="720"/>
+          <w:tab w:val="center" w:pos="5233"/>
+        </w:tabs>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="6" w:name="OLE_LINK18"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>调试工具</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="6"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>能看懂原理图</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>并绘制双层</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PCB</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>熟练使用示波器、万用表</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>J</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Link</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>/</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>DAP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Link</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>等调试工具；熟练</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>使用</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Keil</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CCS</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CubeMX</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>,嘉立创</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>EDA,VS code</w:t>
+      </w:r>
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>；</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>有</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>丰富</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>手工焊接经验。</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="a3"/>
+        <w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="text" w:horzAnchor="margin" w:tblpY="40"/>
+        <w:tblOverlap w:val="never"/>
+        <w:tblW w:w="10772" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="10772"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="002C5048" w14:paraId="6D1196E7" w14:textId="77777777" w:rsidTr="002C5048">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10772" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="D9D9D9" w:themeFill="background1" w:themeFillShade="D9"/>
+          </w:tcPr>
+          <w:p w14:paraId="11FB3449" w14:textId="77777777" w:rsidR="002C5048" w:rsidRPr="00E06751" w:rsidRDefault="002C5048" w:rsidP="00130CA6">
+            <w:pPr>
+              <w:adjustRightInd w:val="0"/>
+              <w:snapToGrid w:val="0"/>
+              <w:spacing w:line="300" w:lineRule="exact"/>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="7" w:name="_Hlk240468289"/>
+            <w:bookmarkEnd w:id="0"/>
+            <w:bookmarkEnd w:id="2"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>教育背景</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:bookmarkEnd w:id="7"/>
+    <w:p w14:paraId="1FAE4768" w14:textId="79ED8310" w:rsidR="004A3258" w:rsidRPr="009073CC" w:rsidRDefault="00C667C9" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="5233"/>
+        </w:tabs>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="1C3A5E"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">韩山师范学院 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">         </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">｜ 电子信息工程 </w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">       </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">｜ 本科（大四在读） ｜ </w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">      </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">2025.09–2027.06 ｜ </w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="a3"/>
+        <w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="text" w:horzAnchor="margin" w:tblpY="156"/>
+        <w:tblOverlap w:val="never"/>
+        <w:tblW w:w="10772" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="10772"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="009073CC" w14:paraId="02C0EB05" w14:textId="77777777" w:rsidTr="00D34DC6">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10772" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="D9D9D9" w:themeFill="background1" w:themeFillShade="D9"/>
+          </w:tcPr>
+          <w:p w14:paraId="7581770C" w14:textId="072F7A6B" w:rsidR="009073CC" w:rsidRPr="00E06751" w:rsidRDefault="0034524C" w:rsidP="00130CA6">
+            <w:pPr>
+              <w:adjustRightInd w:val="0"/>
+              <w:snapToGrid w:val="0"/>
+              <w:spacing w:line="300" w:lineRule="exact"/>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>项目经历</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="53F4138F" w14:textId="64B417F4" w:rsidR="00751268" w:rsidRDefault="00751268" w:rsidP="00F525C8">
+      <w:pPr>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:ind w:left="630" w:right="630" w:firstLine="630"/>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="8" w:name="OLE_LINK6"/>
+      <w:bookmarkStart w:id="9" w:name="OLE_LINK3"/>
+      <w:bookmarkStart w:id="10" w:name="OLE_LINK21"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>——</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">基于 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>ESP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>32-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>S</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>3的端云协同人脸识别门禁系统</w:t>
+      <w:tab/><w:tab/></w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">       </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>独立开发</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      <w:tab/></w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>2026-8至2026-9</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="59D881E3" w14:textId="060FE24C" w:rsidR="00C32488" w:rsidRPr="00DF7C21" w:rsidRDefault="00751268" w:rsidP="00130CA6">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:spacing w:afterLines="15" w:after="46" w:line="300" w:lineRule="exact"/>
+        <w:ind w:left="420" w:firstLineChars="0" w:firstLine="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>技术栈</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">: </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>32-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>S</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>3 (</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IDF</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>/</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>FreeRTOS</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>) ｜</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>DL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> (端侧</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>AI</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>) ｜</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>低功耗唤醒</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>LVGL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>HTTP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>/</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>UDP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>NVS</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PSRAM</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="60C69A6D" w14:textId="63355A58" w:rsidR="00DB5AA8" w:rsidRDefault="00FA4FE4" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">实现摄像头采集与 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>LVGL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 界面显示</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">： 调用 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>esp</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>32-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>camera</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 驱动获取 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>JPEG</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 图像帧，软件解码后送入 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>LVGL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 画布刷新显示。</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>将</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">刷屏任务固定在 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Core</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">0、识别任务固定在 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Core</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">1，以 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PSRAM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>共享缓冲区</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>传递图像帧，解决单任务下识别耗时会把界面</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>降至</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>5</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>fps</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 的问题，实现界面</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>10</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>fps</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>流畅刷新与人脸识别同时进行。</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2597DF10" w14:textId="23A74601" w:rsidR="001A5A0B" w:rsidRPr="001C6F87" w:rsidRDefault="00FA4FE4" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="20" w:after="62" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">基于 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ESP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>DL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 完成人脸识别功能</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>： 移植调用</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>ESP-DL</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>的人脸检测与特征提取模型，对图像帧提取 512 维特征向量</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>后</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>与人脸库逐条计算余弦相似度，超过阈值（0.42）</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>则</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">触发开门。人脸库存放在独立 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>NVS</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 分区，开机时一次性读入 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PSRAM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 缓存后再做比对，实现 32 人规模的离线识别，</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>解决断网情况下无法识别的问题</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2094E37E" w14:textId="4C84F491" w:rsidR="00751268" w:rsidRPr="001C6F87" w:rsidRDefault="00FA4FE4" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">实现设备端 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>HTTP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>/</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>UDP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 通信接口</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">： 基于 </w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>esp</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>_</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>http</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>_</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>server</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 实现人脸</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>上位机</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">录入/删除/查询及远程开门，识别结果经 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>UDP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 独立上报避免视频流阻塞，通过 </w:t>
+      </w:r>
+      <w:bookmarkStart w:id="11" w:name="OLE_LINK8"/>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>getpeername</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="11"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">自动获取上位机 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">。针对弱网 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MJPEG</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 断连问题改为单帧快照取图，稳定性显著提升。另以</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>帧差法</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>（80×60 灰度图）实现</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>陌生人</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>挥手唤醒</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>上位机</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">求助，结合 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Light</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Sleep</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">+ </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>GPIO</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 中断</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>降低待机功耗</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="524C7CAA" w14:textId="598B3534" w:rsidR="00FA4FE4" w:rsidRPr="00FA4FE4" w:rsidRDefault="00907ADE" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>定位并修复多个运行期故障</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 修复 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PSRAM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 任务栈写 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>NVS</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 触发断言重启（改为启动预加载人脸库、运行期零 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Flash</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 写入）、100</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Hz</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 节拍下延时宏换算为 0 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>tick</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 致看门狗复位、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>RGB</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>565 字节序写反致花屏、互斥锁重复加锁致死锁等问题。修复后连续稳定运行 72</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>h</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">+，并叠加 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CPU</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 占用率与剩余 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PSRAM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 实时显示。</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:bookmarkEnd w:id="10"/>
+    <w:p w14:paraId="6031B376" w14:textId="239DE0CE" w:rsidR="00EA1522" w:rsidRPr="006D5622" w:rsidRDefault="00EA1522" w:rsidP="00F525C8">
+      <w:pPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="300" w:lineRule="exact"/>
+        <w:ind w:left="630" w:right="360" w:firstLineChars="350" w:firstLine="630"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>——</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="12" w:name="OLE_LINK11"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">基于 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>OpenMV</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 视觉与双 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MCU</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 协同的车载平衡滚球系统</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="12"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:tab/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>控制组软件</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="13" w:name="OLE_LINK7"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      <w:tab/></w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>2026-7至2026-8</w:t>
+      </w:r>
+    </w:p>
+    <w:bookmarkEnd w:id="13"/>
+    <w:p w14:paraId="6DBEABCD" w14:textId="45EB6201" w:rsidR="00EA1522" w:rsidRPr="00BD6408" w:rsidRDefault="00BD6408" w:rsidP="00267192">
+      <w:pPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="300" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="233" w:firstLine="419"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>技术栈</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">: </w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>2026</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">全国大学生电子设计竞赛 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>H</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 题</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PID</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>STM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>32</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>F</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MSPM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>0</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>G</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>3507｜</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>步进电机控制</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5A68BA04" w14:textId="5F787008" w:rsidR="00725B0E" w:rsidRDefault="00725B0E" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">双 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MCU</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 分工与视觉数据链路</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>： </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>MSPM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>0 负责红外循迹与底盘运动，</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>STM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">32 负责平衡球杆闭环。设计自定义串口协议，基于 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>DMA</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> + </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IDLE</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 机制接收 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>OpenMV</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 坐标数据，实现 ≥20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Hz</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 刷新率与坏帧过滤。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="761C871F" w14:textId="2A6ED001" w:rsidR="00725B0E" w:rsidRDefault="00EA1522" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>循迹与前馈优化</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="14" w:name="OLE_LINK2"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">基于 8 路红外加权与一阶低通滤波平滑轨迹偏差，引入自适应降速策略；将差速前馈注入双轮 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PWM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">，实现循迹控制与速度环 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PID</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 的动态解耦，降低车体瞬态加速度，抑制车载平衡球晃动。</w:t>
+      </w:r>
+    </w:p>
+    <w:bookmarkEnd w:id="14"/>
+    <w:p w14:paraId="682EE307" w14:textId="782E7BD2" w:rsidR="006F1683" w:rsidRPr="00725B0E" w:rsidRDefault="00725B0E" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>平衡闭环与项目结果</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">： 平衡部分采用位置式 </w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PID</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>（积分分离 + 限幅）抑制小球晃动。完成赛题定点停球等全部 6 项考核指标：±5</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>cm</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 折返 4</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>，整圈钢球误差 ≤1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>cm</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>、用时 28</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>，停车偏差 4</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>cm</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>，连续运行成功率 85%。</w:t>
+      </w:r>
+    </w:p>
+    <w:bookmarkEnd w:id="8"/>
+    <w:p w14:paraId="5FBDCC57" w14:textId="3C79B022" w:rsidR="003D647F" w:rsidRPr="00BE7962" w:rsidRDefault="004019C4" w:rsidP="00F525C8">
+      <w:pPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="300" w:lineRule="exact"/>
+        <w:ind w:left="630" w:right="1080" w:firstLineChars="350" w:firstLine="630"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>——</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">基于 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MSPM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>0</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>G</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>3507 的</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>多传感器融合自动小车</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:tab/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>控制组软件</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>2026-7至2026-8</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="790B036C" w14:textId="0E23AB81" w:rsidR="00947B13" w:rsidRPr="00BE7962" w:rsidRDefault="00BD6408" w:rsidP="00267192">
+      <w:pPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="300" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="233" w:firstLine="419"/>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="15" w:name="OLE_LINK1"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>技术栈</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">: </w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>2024</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">全国大学生电子设计竞赛 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>H</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 题</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PID</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>｜</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>MSPM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>0</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>G</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>3507｜</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="宋体" w:cs="Times New Roman"/>
+          <w:iCs/>
+          <w:color w:val="646464"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IMU</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49ECA77F" w14:textId="2A510FBE" w:rsidR="00161418" w:rsidRPr="001C6F87" w:rsidRDefault="00C50254" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="16" w:name="OLE_LINK13"/>
+      <w:bookmarkEnd w:id="15"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>循迹与惯性导航融合</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">：使用分级差速补偿算法，按赛道曲率动态调整 </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>PWM</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 补偿范围（±10～±110），解决高速过弯响应迟滞与低速路径震荡的矛盾；设计灰度 + </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>IMU</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 双模融合，在黑线缺失或信号异常时用 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>JY</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>61</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>P</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 陀螺仪 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>YAW</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 角维持航向，解决轨迹消失无法循迹的问题。</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="a3"/>
+        <w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="text" w:horzAnchor="margin" w:tblpY="690"/>
+        <w:tblOverlap w:val="never"/>
+        <w:tblW w:w="10772" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="10772"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00404220" w14:paraId="5C1C4C43" w14:textId="77777777" w:rsidTr="00404220">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10772" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="D9D9D9" w:themeFill="background1" w:themeFillShade="D9"/>
+          </w:tcPr>
+          <w:p w14:paraId="5E3616FA" w14:textId="77777777" w:rsidR="00404220" w:rsidRPr="00E06751" w:rsidRDefault="00404220" w:rsidP="0028284D">
+            <w:pPr>
+              <w:adjustRightInd w:val="0"/>
+              <w:snapToGrid w:val="0"/>
+              <w:spacing w:line="320" w:lineRule="exact"/>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                <w:b/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:lastRenderedPageBreak/>
+              <w:t>奖项</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="42F836A9" w14:textId="02D5A798" w:rsidR="00404220" w:rsidRPr="00404220" w:rsidRDefault="00067756" w:rsidP="0028284D">
+      <w:pPr>
+        <w:pStyle w:val="a6"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:spacing w:afterLines="10" w:after="31" w:line="320" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>项目结果</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>：完成赛题规定的多路径自动驾驶功能；</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>→</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>B</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ABCDA</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ACBDA</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>ACBDA</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>×4 实测时间分别为</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>5</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> / </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>11</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> / </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>13</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> / </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>41</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="微软雅黑" w:cs="Times New Roman"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve">，连续运行 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 次成功率 </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>90</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>%</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      </w:r>
+    </w:p>
+    <w:bookmarkEnd w:id="9"/>
+    <w:bookmarkEnd w:id="16"/>
+    <w:p w14:paraId="7A557C54" w14:textId="27C9EC15" w:rsidR="00EB64C5" w:rsidRDefault="00A02D90" w:rsidP="00775B2C">
+      <w:pPr>
+        <w:spacing w:line="300" w:lineRule="exact"/>
+        <w:ind w:firstLineChars="50" w:firstLine="105"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>电子设计大赛校级选拔赛二等奖 | 校级三等奖学金 | 三创赛校级一等奖</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:sectPr w:rsidR="00EB64C5" w:rsidSect="001F19A0">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
